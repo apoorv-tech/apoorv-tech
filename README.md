@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing Web and android applications.
 - 🎓 &nbsp; Studying Electronics and communication engineering at NIT Allahabad.
-- 🌱 &nbsp; Intrested in Web and android developmenet,competitive coding and Networking.
+- 🌱 &nbsp; Intrested in Web and android developmenet,competitive coding.
 
 <br/>
 
